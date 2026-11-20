@@ -1,0 +1,6 @@
+{
+  "name": "Thả Hàng Cứu Trợ - Máy Bay Cứu Hộ",
+  "description": "Trò chơi mô phỏng thả hàng cứu trợ bằng máy bay tiếp tế cho làng bị lũ lụt cô lập",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
